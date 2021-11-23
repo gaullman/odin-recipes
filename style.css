@@ -1,9 +1,10 @@
 .list {
     color: purple;
     background-color: yellow;
-    font-size: 20px;
+    font-size: 12px;
 }
 
 .title {
     color: orange;
+    font-size: 36px;
 }
